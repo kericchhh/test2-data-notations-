@@ -1,3 +1,4 @@
+
 ol{
     text-align: center;
 }
@@ -32,4 +33,32 @@ img{
     height: 300px;
     margin-bottom: 1cm;
     border: solid black 1px
+
+.boxed-list {
+    border: 2px solid black;  
+    padding: 25px;          
+    width: auto; 
+  }
+
+.boxed-list li {
+    font-weight: bold;       
+  }
+  
+.author {
+    margin-bottom: 1cm;
+    text-align: center;
+  }
+  
+.form-header {
+    margin-bottom: 1cm;
+    text-align: center;
+}
+
+.editf {
+    background-color: blue;
+}
+
+.btns {
+    background-color: orange;
+    margin-bottom: 1cm;
 }
