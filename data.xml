@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software>
+    <program>
+        <name>Microsoft Windows</name>
+        <category>Operation System</category>
+        <license>Proprietary</license>
+        <platform>PC</platform>
+    </program>
+    <program>
+        <name>Linux</name>
+        <category>Operation System</category>
+        <license>Open Source</license>
+        <platform>PC, Servers</platform>
+    </program>
+    <program>
+        <name>Adobe Photoshop</name>
+        <category>Graphic Software</category>
+        <license>Proprietary</license>
+        <platform>PC, Mac</platform>
+    </program>
+</software>

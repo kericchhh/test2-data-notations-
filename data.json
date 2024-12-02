@@ -1,0 +1,20 @@
+{
+    "software1": {
+        "name":"Microsoft Windows",
+        "category":"Operating System",
+        "license":"Proprietary",
+        "platform":"PC"
+    },
+    "software2": {
+        "name":"Linux",
+        "category":"Operating System",
+        "license":"Open Source",
+        "platform":"PC, Servers"
+    },
+    "software3": {
+        "name":"Adobe Photoshop",
+        "category":"Graphics Software",
+        "license":"Proprietary",
+        "platform":"PC, Mac"
+    }
+}
